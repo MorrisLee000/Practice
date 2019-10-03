@@ -1,0 +1,31 @@
+class Solution:
+    def countPrimeSetBits(self, L: int, R: int) -> int:
+        x = []
+        y = []
+        for i in range(L,R+1):
+            b = "{0:b}".format(i)
+            s = str(b)
+            c = s.count("1")
+            x.append(c)
+            if c > 1:
+                for j in range(2,c):
+                    if (c % j) == 0:
+                        print("")
+                        break
+                else:
+                    y.append(c)
+            else:
+                print("")
+        a = len(y)
+        return a
+        
+先創建兩個list用來把資料放進list裡面
+使用迴圈來把L和R範圍以內的數字找出來並且轉成二進位
+"{0:b}".format()是用來把10進位數字轉乘二進位並且拿掉開頭的0b
+把轉換成二進位的數字轉乘str來去計算該數字有多少個1
+使用第一個list來把所有轉換成str的數字加進去，用來進行檢查使否有成功轉乘str
+使用if和for迴圈來去找出有多少個質數
+因為1不是質數所以數字必須大於1
+把該數字用從2開始跑到該數字-1的數字去相除檢查是否整除
+如果整除那麼那個數字的迴圈直接跳過並且不會放到第二個list
+最後使用len來去檢查list的長度(因為第二個list裡面的所有元素都是正確答案，因此長度等於數量)

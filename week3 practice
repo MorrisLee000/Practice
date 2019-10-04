@@ -1,0 +1,20 @@
+def countBits(n):
+    return n.bit_length()
+    #x = '{0:b}'.format(n)
+    #b = "1"
+    #c = "0"
+    #str(x)
+    #a = str(x).count(b) + str(x).count(c)
+    #return a
+    
+n.bit_length .bit先把n轉換成2進位 _length是用來計算轉換成二進位的數字長度多少
+
+接下來幾行是把動作分拆成好幾個步驟
+
+def modulus(n):
+    if (n-int(n)) == 0 :
+        return n % 2
+    else:
+        return -1
+
+int(n)把n傳換成只有自然數取消小數點後拿去減，如果有剩下的小數該數字就會不等於0，以此來判斷是否為自然數

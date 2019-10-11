@@ -1,7 +1,7 @@
 # Welcome to my github
  ## 我是巨資三B李騏宏
  ## Week2 (09-16 ~ 09-22)
-  * CS50
+  * [CS50](https://github.com/MorrisLee000/Practice/blob/master/Week2/CS50%20url)
   * week2 practice
  ## Week3 (09-23 ~ 09-29)
   * week3 practice

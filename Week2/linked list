@@ -1,2 +1,1 @@
-Linked List
-Linked list是什麼?
+linked list是有一串node所組成的，每一個node裡面有一個data及一個pointer組成，pointer是用來連結下一個node用的，假如那個node之後並沒有其他的node，它的pointer就會連結到null

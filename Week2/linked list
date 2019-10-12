@@ -1,1 +1,5 @@
-linked list是有一串node所組成的，每一個node裡面有一個data及一個pointer組成，pointer是用來連結下一個node用的，假如那個node之後並沒有其他的node，它的pointer就會連結到null
+linked list是有一串node所組成的，每一個node裡面有一個data及一個pointer，data表示的是該項數值，而pointer表示那個node所連結的下一個node，
+假如那個node是linked list中的最後一個，它的pointer就會連結null，linked list不用考慮到儲存的資料數量。
+linked list的方便在於它進行新增或者刪除時只要對特定的node裡面的pointer進行修改就可以不需要讓所有的node進行移動，因為每一個node可以當作一個
+獨立的個體，所以只要對該個體有關的東西進行修改就可以。
+

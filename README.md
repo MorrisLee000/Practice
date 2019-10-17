@@ -2,6 +2,7 @@
  ## 我是巨資三B李騏宏
  ## 作業
   * [quicksort](https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.ipynb)
+  * [自己製作的quicksort流程圖](https://github.com/MorrisLee000/Practice/blob/master/Week4/readme.md)
  ## Week2 (09-16 ~ 09-22)
   * [CS50](https://github.com/MorrisLee000/Practice/blob/master/Week2/CS50%20url)
   * week2 practice

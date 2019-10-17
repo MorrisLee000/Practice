@@ -1,4 +1,6 @@
 # Welcome to my github
+ ## 作業
+  * [quicksort](https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.ipynb)
  ## 我是巨資三B李騏宏
  ## Week2 (09-16 ~ 09-22)
   * [CS50](https://github.com/MorrisLee000/Practice/blob/master/Week2/CS50%20url)

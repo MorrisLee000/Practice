@@ -5,4 +5,4 @@
    - 三、因為前面已經把所有數字分開來了，所以最後需要把它重新組合再一起。
 
 ![](https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.jpg)
-<img src='https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.jpg' height=200 weight =200>
+

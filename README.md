@@ -9,5 +9,5 @@
   * week3 practice
  ## Week4 (09-30 ~ 10-06)
   * week4 practice
-  * 
+  * quicksort
  ## Week5 (10-07 ~ 10-13)國慶放假

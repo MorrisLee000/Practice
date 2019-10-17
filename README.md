@@ -1,6 +1,6 @@
 # Welcome to my github
  ## 我是巨資三B李騏宏
- ## 作業
+ ## 第一個作業(QuickSort)
   * [quicksort](https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.ipynb)
   * [自己製作的quicksort流程圖](https://github.com/MorrisLee000/Practice/blob/master/Week4/readme.md)
  ## Week2 (09-16 ~ 09-22)

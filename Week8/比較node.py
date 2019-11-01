@@ -58,3 +58,8 @@ class Tree:
       self.left = self.right.right
       i += 1
     return -1
+
+  
+  ##參考老師的linkedlist
+  ##參考網址https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm
+  ##參考網址https://www.tutorialspoint.com/python_data_structure/python_binary_tree.htm

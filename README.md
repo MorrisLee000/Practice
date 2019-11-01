@@ -1,5 +1,6 @@
 # Welcome to my github
  ## 我是巨資三B李騏宏
+ ## 比較node[node](https://github.com/MorrisLee000/Practice/blob/master/Week8/%E6%AF%94%E8%BC%83node.py)
  ## 第一個作業(QuickSort)
   * [quicksort](https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.ipynb)
   * [自己製作的quicksort流程圖](https://github.com/MorrisLee000/Practice/blob/master/Week4/readme.md)

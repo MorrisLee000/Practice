@@ -15,13 +15,16 @@ class Solution:
             l = len(left)
             r = len(right)
 
-            while i < l and j < r:       ##開始進行merge比較大小然後合併
+            while i < l and j < r:       ##開始進行merge比較大小然後合併，假設left[i] == right[j]先把left[i]放進list裡面。
                 if left[i] < right[j]:   
                     nums[k] = left[i]
                     i += 1
                 elif left[i] > right[j]:
                     nums[k] = right[j]
                     j += 1
+                elif left[i] == right[j]:
+                    nums[k] = left[i]
+                    i += 1
                 k += 1
             while i < l:                 ##把剩下還沒比較的元素放進list裡面
                 nums[k] = left[i]        

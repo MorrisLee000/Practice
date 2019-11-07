@@ -37,5 +37,4 @@ class Solution(object):
 
             return nums
 
-
 ##參考網站 https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheMergeSort.html

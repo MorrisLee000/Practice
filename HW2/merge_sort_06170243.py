@@ -1,4 +1,4 @@
-class Solution:
+class Solution(object):
     def merge_sort(self,nums):
         self.nums = nums
         if len(nums) > 1:

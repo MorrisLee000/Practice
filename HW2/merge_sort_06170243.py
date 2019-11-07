@@ -6,8 +6,8 @@ class Solution(object):
             left = nums[:mid]           ##把元素分成左邊和右邊，因為mergesort是分成一半，所以先找出mid很重要
             right = nums[mid:]
         
-            mergesort(left)             ##重複呼交merge把left和right繼續分成兩個
-            mergesort(right)
+            Solution().merge_sort(left)             ##重複呼交merge把left和right繼續分成兩個
+            Solution().merge_sort(right)
         
             i = 0
             j = 0

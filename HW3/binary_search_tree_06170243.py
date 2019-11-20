@@ -87,7 +87,7 @@ class Solution(object):
             TreeNode.val = cho.val
             self._delete(cho)
         return self.delete(root, target)
-    ##取代
+    ##修改
     def modify(self, root, target, new_node):
         
         

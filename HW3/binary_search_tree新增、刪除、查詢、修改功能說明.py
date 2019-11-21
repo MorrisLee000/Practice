@@ -12,3 +12,8 @@
 ##的高度影響降到最低
 #4.修改
 ##修改就像是把前面三個function融合再一起，先進行search找目標，然後delete，最後在插入新的數值。
+
+
+##參考網址1 https://www.youtube.com/watch?v=f5dU3xoE6ms
+##參考網址2 https://www.youtube.com/watch?v=Zaf8EOVa72I
+##參考網址3 https://github.com/bfaure/Python3_Data_Structures/blob/master/Binary_Search_Tree/main.py

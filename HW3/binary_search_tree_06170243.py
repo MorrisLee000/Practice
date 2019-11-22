@@ -43,58 +43,7 @@ class Solution(object):
             return None    
     ##刪除
     def delete(self, root, target):
-        return self._delete(self.search(target, self.root))
-    
-    def _delete(self, TreeNode):
-        if TreeNode == None or self.search(TreeNode.val) == None:  ##如果刪除的目標沒再tree裡面就回傳None
-            return None
-        
-        def min_val_node(i):        ##回傳整棵樹的最小值
-            cur = i
-            while cur.left != None:
-                cur = cur.left
-                return cur
-        
-        def child_num(i):       ##回傳child的數量
-            child_num = 0
-            if i.left != None:
-                child_num += 1
-            if i.right != None:
-                child_num += 1
-            return child_num
-        
-        node_parent = TreeNode.parent    ##找到欲刪除節點的parent
-        
-        node_child = child_num(TreeNode) ##找到欲刪除節點的child數量
-        ##假設沒有child
-        if node_child == 0:
-            if node_parent != None:      ##移除欲刪除的目標節點
-                node_parent.left = None
-            else:
-                node_parent.right = None
-        else:
-            self.root = None
-        ##假設有一個child
-        if node_child == 1:
-            if TreeNode.left != None:   ##判斷child的位置，因為只有一個child，所以只要判斷在哪邊
-                child = TreeNode.left
-            else:
-                child = TreeNode.right
-            
-            if node_parent != None:     ##用child來取代刪除的節點
-                if node_parent.left == TreeNode:
-                    node_parent.left = child
-                else:
-                    node_parent.right = child
-            else:
-                self.root = child
-            child.parent = node_parent
-        ##假設有兩個child
-        if node_child == 2:
-            cho = min_val_node(TreeNode.right)
-            TreeNode.val = cho.val             ##使用較小的節點來代替刪除的節點
-            self._delete(cho)
-        return self.delete(root, target)       ##因為要刪除所有相同的數值，因此要重新呼delete    
+        return None
     ##修改
     def modify(self, root, target, new_val):
         return None

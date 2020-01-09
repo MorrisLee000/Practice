@@ -10,7 +10,7 @@ def checkPalindrome(inputString):
         else:
             count = 0
             break
-    if count == 1:
+    if count != 0:
         return True
     else:
         return False

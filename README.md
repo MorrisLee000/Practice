@@ -1,9 +1,12 @@
 # Welcome to my github
  ## 我是巨資三B李騏宏
  ## [node比較](https://github.com/MorrisLee000/Practice/blob/master/Week8/%E6%AF%94%E8%BC%83node.py)
- ## 第一個作業(QuickSort)
-  * [quicksort](https://github.com/MorrisLee000/Practice/blob/master/Week4/quicksort.ipynb)
-  * [自己製作的quicksort流程圖](https://github.com/MorrisLee000/Practice/blob/master/Week4/readme.md)
+ ## [HW1](https://github.com/MorrisLee000/Practice/tree/master/HW1)
+ ## [HW2](https://github.com/MorrisLee000/Practice/tree/master/HW2)
+ ## [HW3](https://github.com/MorrisLee000/Practice/tree/master/HW3)
+ ## [HW4](https://github.com/MorrisLee000/Practice/tree/master/HW4)
+ ## [HW5](https://github.com/MorrisLee000/Practice/tree/master/HW5)
+ ## [HW6](https://github.com/MorrisLee000/Practice/tree/master/HW6)
  ## Week2 (09-16 ~ 09-22)
   * [CS50](https://github.com/MorrisLee000/Practice/blob/master/Week2/CS50%20url)
   * week2 practice

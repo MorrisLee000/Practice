@@ -1,6 +1,8 @@
 # Welcome to my github
  ## 我是巨資三B李騏宏
  ## [node比較](https://github.com/MorrisLee000/Practice/blob/master/Week8/%E6%AF%94%E8%BC%83node.py)
+ ## [Leetcode](https://github.com/MorrisLee000/Practice/tree/master/Leetcode)
+ ## [Codesignal](https://github.com/MorrisLee000/Practice/tree/master/Codesignal)
  ## [HW1](https://github.com/MorrisLee000/Practice/tree/master/HW1)
  ## [HW2](https://github.com/MorrisLee000/Practice/tree/master/HW2)
  ## [HW3](https://github.com/MorrisLee000/Practice/tree/master/HW3)

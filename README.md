@@ -46,19 +46,37 @@
   * [Binary Tree程式流程](http://www.math.bas.bg/~nkirov/2017/NETB201/slides/ch06/ch06-2.html)
   * [Binary Tree講解影片](https://www.youtube.com/watch?v=ikPPdBDZnz4)
  ## Week9 (11-04 ~ 11-10)
-
+  * 本周上課的內容：Binary Search Tree
+  * [Binary Tree與Binary Search Tree比較的影片](https://www.youtube.com/watch?v=7vw2iIdqHlM)
+  * [Binary Search Tree程式碼影片](https://www.laurentluce.com/posts/binary-search-tree-library-in-python/)
+  * [Binary Search Tree各項功能的程式碼網址](https://www.laurentluce.com/posts/binary-search-tree-library-in-python/)
  ## Week10 (11-11 ~ 11-17)
-
+  * 本周上課的內容：Red Black Tree
+  * [Red Black Tree運作流程影片](https://www.youtube.com/watch?v=rcDF8IqTnyI)
+  * [Red Black Tree講解網址](https://yotsuba1022.gitbooks.io/data-structure-note/content/1.4.3-red-black-tree.html)
  ## Week11 (11-18 ~ 11-24)
- 
+  * 本周上課的內容：Hash Table
+  * [Hash Table介紹影片](https://www.youtube.com/watch?v=aZVNWYSR_sY)
+  * [Hashing的介紹影片](https://www.youtube.com/watch?v=2BldESGZKB8)
+  * [Hashing的介紹網址](https://themoneymongers.com/bitcoin-hash/)
+  * [Hash Set的介紹網址](https://www.cs.wcupa.edu/rkline/ds/hash-sets.html)
  ## Week12 (11-25 ~ 12-01)
-
+  * 本周上課的內容：BFS
+  * [BFS的介紹網址](http://alrightchiu.github.io/SecondRound/graph-breadth-first-searchbfsguang-du-you-xian-sou-xun.html)
+  * [BFS的運行流程網址](https://www.programiz.com/dsa/graph-bfs)
  ## Week13 (12-02 ~ 12-08)
-
+  * 本周上課的內容：DFS
+  * [DFS的介紹網址](http://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
  ## Week14 (12-09 ~ 12-15)
-
+  * 本周上課的內容：Kruskal
+  * [Kruskal維基](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%B2%81%E6%96%AF%E5%85%8B%E5%B0%94%E6%BC%94%E7%AE%97%E6%B3%95)
+  * [Kruskal的運行過程網址](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+  * [Kruskal的介紹影片](https://www.youtube.com/watch?v=71UQH7Pr9kU)
+  * [偵測是否形成迴圈的程式碼](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
  ## Week15 (12-16 ~ 12-22)
-
- ## Week16 (12-23 ~ 12-29)
-
+  * 本周上課的內容：Dijkstra
+  * [Dijkstra的運行過程網址](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+  * [Dijkstra的運行流程影片](https://www.youtube.com/watch?v=0nVYi3o161A)
+ ## Week16 (12-23 ~ 12-29)總複習
  ## Week17 (12-30 ~ 01-05)期末考
+ ## Week18 (01-06 ~ 01-12)期末考結束放假

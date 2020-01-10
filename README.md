@@ -12,16 +12,35 @@
  ## [HW4](https://github.com/MorrisLee000/Practice/tree/master/HW4)
  ## [HW5](https://github.com/MorrisLee000/Practice/tree/master/HW5)
  ## [HW6](https://github.com/MorrisLee000/Practice/tree/master/HW6)
+ ## Week1 (09-09 ~ 09-15)放假
  ## Week2 (09-16 ~ 09-22)
-  * week2 practice
+
  ## Week3 (09-23 ~ 09-29)
-  * week3 practice
+
  ## Week4 (09-30 ~ 10-06)
-  * week4 practice
-  * quicksort
- ## Week5 (10-07 ~ 10-13)國慶放假
+  
+ ## Week5 (10-07 ~ 10-13)放假
+  
  ## Week6 (10-14 ~ 10-20)
  
  ## Week7 (10-21 ~ 10-27)
  
  ## Week8 (10-28 ~ 11-03)
+
+ ## Week9 (11-04 ~ 11-10)
+
+ ## Week10 (11-11 ~ 11-17)
+
+ ## Week11 (11-18 ~ 11-24)
+ 
+ ## Week12 (11-25 ~ 12-01)
+
+ ## Week13 (12-02 ~ 12-08)
+
+ ## Week14 (12-09 ~ 12-15)
+
+ ## Week15 (12-16 ~ 12-22)
+
+ ## Week16 (12-23 ~ 12-29)
+
+ ## Week17 (12-30 ~ 01-05)期末考
